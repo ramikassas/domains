@@ -1,0 +1,5 @@
+{
+  "name": "Domain Lead Extractor",
+  "description": "An advanced tool to crawl and extract potential clients, competitors, and decision-makers based on domain analysis using Google Search Grounding.",
+  "requestFramePermissions": []
+}
